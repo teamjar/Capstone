@@ -1,6 +1,6 @@
 # Project Plan
 
-Pod Members: **Add Pod Members Names**
+Pod Members: ** Roy Delgado, Jordan Ward, Anaya Bussey**
 
 ## Problem Statement and Description
 
