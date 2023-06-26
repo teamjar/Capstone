@@ -48,6 +48,9 @@ Online Marketplace: Create an online marketplace where users can buy and sell pr
 
 What is the main purpose of your project? What are the key features your site has to offer its users? How will your targeted audience use your website?
 
+“Portfolio management tools provide an overview of all investments, their performance, and the overall health of the portfolio. They automate report generation, reducing manual work and potential errors.
+These tools can aid in tailoring investment portfolios to match clients' risk tolerance and investment objectives."
+
 ## Expected Features List
 
 Add a list of your groups's brainstormed features list
