@@ -75,6 +75,15 @@ Transaction History: Maintain a detailed transaction history for users, includin
 
 What similar apps and websites? How will your project stand out from these other websites?
 
+Calorie Tracker
+Acorn(s)
+
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
+
+Do we want to include stocks/marketing?
+
+How will we ensure the security and privacy of user data?
+
+What are the key features and functionalities that should be included in a financial app to ensure a seamless user experience?
