@@ -26,21 +26,21 @@ I frequently forget to pay bills on time. I need a system that reminds me when p
 
 Target Audience: 
 
-Investment Bankers and Financial Analysts
-Individual Investors and Traders
-Portfolio Managers
-Financial Advisors and Wealth Managers
-Financial Educators and Students
-Fintech Companies
-Financial Journalists and Market Researchers
+Investment Bankers and Financial Analysts,
+Individual Investors and Traders,
+Portfolio Managers,
+Financial Advisors and Wealth Managers,
+Financial Educators and Students,
+Fintech Companies,
+Financial Journalists and Market Researchers,
 Corporations
 
-Young Professionals
-Freelancers and Self-Employed Individuals
-College Students
-Families
-Retirees
-People in Debt
+Young Professionals,
+Freelancers and Self-Employed Individuals,
+College Students,
+Families,
+Retirees,
+People in Debt,
 Individuals looking to improve their financial health
 
 
@@ -103,13 +103,13 @@ Watchlist: An option to add certain stocks, currencies, or commodities to a "wat
 
 What similar apps and websites? How will your project stand out from these other websites?
 
-Mint 
-Personal Capital
-Quicken
-YNAB
-Moneydance
-PocketSmith
-SigFig
+Mint, 
+Personal Capital,
+Quicken,
+YNAB,
+Moneydance,
+PocketSmith,
+SigFig,
 WealthFront
 
 Innovative Features: Including innovative features that aren't offered by existing apps will make our app stand out. For example, predictive analytics and artificial intelligence-based financial advice.
