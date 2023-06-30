@@ -114,9 +114,6 @@ WealthFront
 
 Innovative Features: Including innovative features that aren't offered by existing apps will make our app stand out. For example, predictive analytics and artificial intelligence-based financial advice.
 
-Calorie Tracker?
-Acorn(s)?
-
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
