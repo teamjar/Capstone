@@ -6,7 +6,27 @@ Pod Members: **Anaya Bussey, Jordan Ward, Roy Delgado**
 
 Problem Statement:
 
+We struggle to quickly and accurately assess our company's financial health due to the lack of real-time financial data.
+
+The process of compiling financial reports is time-consuming, leaving little time for analysis.
+
+We lack a centralized location for key financial metrics, leading to disconnected decision-making processes.
+
+We're struggling to understand the impact of different business areas on our financial performance due to disparate data sources.
+
+I'm having trouble keeping track of all my income and expenses. I need a centralized place where I can see everything in one go.
+
+I struggle to set and maintain a budget. I need a tool that can help me set realistic budget goals and track my progress.
+
+I find it hard to visualize my spending patterns. I need a tool that can present my financial data in an easy-to-understand way.
+
+I frequently forget to pay bills on time. I need a system that reminds me when payments are due.
+
 Target Audience: 
+Investment Bankers and Financial Analysts, Individual Investors and Traders, Portfolio Managers, Financial Advisors and Wealth Managers, Financial Educators and Students, Fintech Companies, Financial Journalists and Market Researchers, Corporations
+
+Young Professionals, Freelancers and Self-Employed Individuals, College Students, Families, Retirees, People in Debt, Individuals looking to improve their financial health
+
 
 ## User Roles
 
