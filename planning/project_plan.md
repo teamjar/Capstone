@@ -73,17 +73,17 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 
 
-Login
-Registration
-Landing page
-Portfolio Page
-- Side navbar
+- Login
+- Registration
+- Landing page
+- Portfolio Page
+- PSideBar
 -   Dashboard
 -   My Goals
 -   My Bills
 -   Ask For Help
-Stock Page
-- Side navbar
+- Stock Page
+- SSideBar
 -  Dashboard
 -  My Stocks
 -  Watchlist
