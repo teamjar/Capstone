@@ -67,6 +67,12 @@ List the current user stories you will implement.
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
 
+![Landing Page](https://github.com/teamjar/Capstone/assets/103838119/e08fb2b8-2d3c-4425-9f7a-dcaf933e25fc)
+![Personal Page](https://github.com/teamjar/Capstone/assets/103838119/8b4f1b0d-6106-4312-9381-e1e0d8656f8d)
+![Stock Page](https://github.com/teamjar/Capstone/assets/103838119/10f68e17-ebde-4a70-8f3b-229c5e9203a6)
+
+
+
 Login
 Registration
 Landing page
